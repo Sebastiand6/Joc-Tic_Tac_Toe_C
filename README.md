@@ -1,4 +1,4 @@
-# Joc-Tic_Tac_Toe_C
+# Joc Tic_Tac_Toe_C
 
 Acest proiect este o implementare simplă a jocului **Tic-Tac-Toe** în limbajul C. Jocul se desfășoară între un jucător și calculator.
 
